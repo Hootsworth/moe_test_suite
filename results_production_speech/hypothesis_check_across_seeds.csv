@@ -1,0 +1,11 @@
+seed,model_gate_type,sim_child_dysarthric,avg_sim_to_adult,margin,hypothesis_supported
+1,multi_gate,0.9661,0.6937,0.2724,True
+1,continuous_acoustic,0.8138,0.9456,-0.1318,False
+2,multi_gate,0.7076,0.8573,-0.1497,False
+2,continuous_acoustic,0.6746,0.9106,-0.236,False
+3,multi_gate,0.9062,0.9357,-0.0295,False
+3,continuous_acoustic,0.8432,0.9543,-0.1111,False
+4,multi_gate,0.6487,0.8828,-0.2341,False
+4,continuous_acoustic,0.3841,0.7524,-0.3683,False
+5,multi_gate,0.9246,0.858,0.0666,True
+5,continuous_acoustic,0.7928,0.9234,-0.1307,False

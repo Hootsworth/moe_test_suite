@@ -1,0 +1,16 @@
+domain,comparison,multi_gate_wer,baseline_wer,rel_reduction (%),paired_t_pval,wilcoxon_pval,cohens_d,stat_significant_p05
+adult_speech,hybrid_multi_gate vs matched_single_gate,17.58,62.43,71.84,9.1296e-18,1.9073e-06,6.959,True
+adult_speech,hybrid_multi_gate vs hybrid_single_gate,17.58,64.21,72.63,7.0876e-18,1.9073e-06,7.054,True
+adult_speech,hybrid_multi_gate vs standard_single_gate,17.58,64.19,72.62,5.0929e-17,1.9073e-06,6.345,True
+adult_speech,hybrid_multi_gate vs no_shared_multi_gate,17.58,16.43,-6.95,9.7004e-02,8.2550e-02,-0.39,False
+adult_speech,hybrid_multi_gate vs continuous_acoustic,17.58,41.58,57.73,2.1523e-09,1.9073e-06,2.363,True
+child_speech,hybrid_multi_gate vs matched_single_gate,67.84,82.37,17.64,1.3367e-11,1.9073e-06,3.188,True
+child_speech,hybrid_multi_gate vs hybrid_single_gate,67.84,81.89,17.16,3.2146e-10,1.9073e-06,2.649,True
+child_speech,hybrid_multi_gate vs standard_single_gate,67.84,82.57,17.85,9.4052e-11,8.8449e-05,2.848,True
+child_speech,hybrid_multi_gate vs no_shared_multi_gate,67.84,64.79,-4.71,7.4258e-03,9.4357e-03,-0.67,True
+child_speech,hybrid_multi_gate vs continuous_acoustic,67.84,73.18,7.31,5.6468e-04,1.5059e-03,0.924,True
+dysarthric_speech,hybrid_multi_gate vs matched_single_gate,40.64,59.33,31.51,7.2309e-11,1.9073e-06,2.892,True
+dysarthric_speech,hybrid_multi_gate vs hybrid_single_gate,40.64,57.53,29.36,1.2849e-08,1.9073e-06,2.115,True
+dysarthric_speech,hybrid_multi_gate vs standard_single_gate,40.64,58.64,30.7,5.6711e-08,1.3183e-04,1.922,True
+dysarthric_speech,hybrid_multi_gate vs no_shared_multi_gate,40.64,41.14,1.22,8.2539e-01,8.0919e-01,0.05,False
+dysarthric_speech,hybrid_multi_gate vs continuous_acoustic,40.64,44.17,8.0,5.9396e-02,7.6588e-02,0.448,False

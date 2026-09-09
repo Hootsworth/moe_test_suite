@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# LaTeX build artifacts (keep main.tex, references.bib, figures/, main.pdf)
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+paper/missfont.log
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Intermediate run directories
+results/
+results_torch/
+results_seq_wer/
+results_real_speech/
+
+# Temporary files and scratch
+scratch/
+tmp/
+*.tmp

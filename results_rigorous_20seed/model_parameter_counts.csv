@@ -1,0 +1,7 @@
+,total,frontend,shared_experts,routed_experts,gate,temporal_encoder,ctc_head
+hybrid_multi_gate,74632,11664,9360,37440,588,14208,1372
+matched_single_gate,74631,11664,9360,37440,587,14208,1372
+hybrid_single_gate,74240,11664,9360,37440,196,14208,1372
+no_shared_multi_gate,65272,11664,0,37440,588,14208,1372
+standard_single_gate,64880,11664,0,37440,196,14208,1372
+continuous_acoustic,75416,11664,9360,37440,1372,14208,1372
