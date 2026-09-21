@@ -1,0 +1,5 @@
+model,routing_mode,params,train_sec,control_cer,mild_cer,moderate_cer,severe_cer,macro_cer,control_wer,mild_wer,moderate_wer,severe_wer,macro_wer
+standard_single_gate,standard_single_gate,64880,2.44,61.81,73.03,80.25,89.43,76.13,90.79,97.37,97.06,100.0,96.31
+matched_single_gate,matched_single_gate,74790,2.57,45.77,68.54,77.78,87.14,69.81,82.89,97.37,100.0,100.0,95.06
+decoupled_severity_moe,decoupled_severity,74828,2.51,44.61,75.28,77.16,90.0,71.76,88.16,100.0,97.06,100.0,96.31
+calibrated_atypical_moe,calibrated_atypical,75596,2.63,32.94,64.61,64.81,85.71,62.02,77.63,92.11,97.06,100.0,91.7
