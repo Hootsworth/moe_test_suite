@@ -48,4 +48,10 @@ results_real_speech/
 # Temporary files and scratch
 scratch/
 tmp/
+
+# Large clinical audio datasets
+Col_Spanish/
+German/
+Italian Parkinson's Voice and speech/
+*.wav
 *.tmp
