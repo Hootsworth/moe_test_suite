@@ -1,0 +1,17 @@
+model,severity,CER (%),WER (%),del_rate,sub_rate
+standard_single_gate,control_typical,27.3,97.19,34.54,62.25
+standard_single_gate,mild_dysarthria,56.97,110.5,19.33,80.67
+standard_single_gate,moderate_dysarthria,64.81,103.66,34.55,65.45
+standard_single_gate,severe_dysarthria,70.34,102.37,29.64,70.36
+matched_single_gate,control_typical,28.66,99.2,29.72,68.27
+matched_single_gate,mild_dysarthria,55.17,109.24,19.33,79.83
+matched_single_gate,moderate_dysarthria,63.1,100.81,39.02,60.98
+matched_single_gate,severe_dysarthria,69.3,100.79,47.83,52.17
+decoupled_severity_router,control_typical,13.45,87.15,43.37,43.78
+decoupled_severity_router,mild_dysarthria,55.91,100.0,67.65,32.35
+decoupled_severity_router,moderate_dysarthria,65.44,100.0,70.73,29.27
+decoupled_severity_router,severe_dysarthria,82.33,100.0,76.28,23.72
+calibrated_atypical_moe,control_typical,15.43,79.52,28.92,50.2
+calibrated_atypical_moe,mild_dysarthria,49.54,135.71,7.56,91.18
+calibrated_atypical_moe,moderate_dysarthria,60.94,108.13,36.18,63.82
+calibrated_atypical_moe,severe_dysarthria,90.28,100.0,76.28,23.72

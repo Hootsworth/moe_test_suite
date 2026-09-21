@@ -1,0 +1,25 @@
+gamma,severity,CER (%),WER (%),del_rate,sub_rate,ins_rate
+0.0,control_typical,15.43,79.52,28.92,50.2,0.4
+0.0,mild_dysarthria,49.54,135.71,7.56,91.18,36.97
+0.0,moderate_dysarthria,60.94,108.13,36.18,63.82,8.13
+0.0,severe_dysarthria,90.28,100.0,76.28,23.72,0.0
+0.05,control_typical,15.25,78.71,28.92,49.4,0.4
+0.05,mild_dysarthria,49.31,136.97,7.56,91.18,38.24
+0.05,moderate_dysarthria,60.49,108.13,35.77,64.23,8.13
+0.05,severe_dysarthria,89.72,100.0,76.28,23.72,0.0
+0.1,control_typical,15.16,78.71,28.92,49.4,0.4
+0.1,mild_dysarthria,49.08,138.24,7.56,91.18,39.5
+0.1,moderate_dysarthria,60.04,108.13,35.77,64.23,8.13
+0.1,severe_dysarthria,89.29,100.0,76.28,23.72,0.0
+0.2,control_typical,15.25,79.12,28.92,49.4,0.8
+0.2,mild_dysarthria,49.22,139.5,7.56,91.18,40.76
+0.2,moderate_dysarthria,59.95,108.94,35.37,64.63,8.94
+0.2,severe_dysarthria,88.26,100.0,76.28,23.72,0.0
+0.4,control_typical,15.21,79.12,28.51,49.8,0.8
+0.4,mild_dysarthria,48.29,146.22,6.72,92.44,47.06
+0.4,moderate_dysarthria,59.0,109.76,34.96,65.04,9.76
+0.4,severe_dysarthria,84.87,100.0,76.28,23.72,0.0
+0.6,control_typical,15.21,79.12,28.11,50.2,0.8
+0.6,mild_dysarthria,47.74,148.74,5.88,93.28,49.58
+0.6,moderate_dysarthria,57.92,111.79,34.55,65.45,11.79
+0.6,severe_dysarthria,79.54,100.0,76.28,23.72,0.0
